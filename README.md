@@ -1,9 +1,10 @@
 # SortingSimulator
 Sorting algorithm simulator made in Java 
 
-#Simulates - Insertion sort
-            Bubble sort
-            selection sort
+# Algorithms - 
+            - Insertion sort
+            - Bubble sort
+            - selection sort
             
 # How to use-
           - Run Main.java to start with the simulator
